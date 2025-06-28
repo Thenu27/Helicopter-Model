@@ -22,7 +22,7 @@ const Experience =()=>{
             position: [0, 0, -7],
         }}
         gl={{
-            antialias: true,
+            // antialias: true,
             outputColorSpace: THREE.SRGBColorSpace,
         }}
         >
